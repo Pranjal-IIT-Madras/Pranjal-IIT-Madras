@@ -90,6 +90,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pranjal-IIT-Madras/Pranjal-IIT-Madras/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 ---
 
 ## 🎯 2026 Goals
