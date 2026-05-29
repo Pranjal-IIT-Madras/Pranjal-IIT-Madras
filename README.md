@@ -3,7 +3,14 @@
 <h3 align="center">
 🚀 Aspiring Software Developer | C++ • Python • SQL • Cybersecurity
 </h3>
+###
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+at+VIT+Bhopal;Learning+C%2B%2B+and+Data+Structures;Aspiring+Software+Developer;Future+Entrepreneur;Exploring+Cybersecurity" alt="Typing SVG" />
 </p>
