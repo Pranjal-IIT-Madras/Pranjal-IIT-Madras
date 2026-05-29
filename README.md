@@ -84,14 +84,6 @@
 
 ---
 
-## 👾 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pranjal-IIT-Madras/Pranjal-IIT-Madras/pacman-output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph">
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 - Master C++ and Data Structures & Algorithms
