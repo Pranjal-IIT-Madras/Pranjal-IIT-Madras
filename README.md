@@ -16,7 +16,6 @@
 - 🔭 Currently working on **Learning C++ and Data Structures & Algorithms**
 - 🌱 Building a strong foundation in **C++, DSA, SQL, and Cybersecurity**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 🎮 Interested in **Game Development using Unreal Engine & C++**
 - 🚀 Aspiring **Entrepreneur and Software Developer**
 - 📫 Reach me at **pranjal0829@gmail.com**
 - 📄 LinkedIn: **[Pranjal Bhatnagar](https://www.linkedin.com/in/pranjal--bhatnagar/)**
@@ -108,7 +107,6 @@
 - Master C++ and Data Structures & Algorithms
 - Contribute to Open Source Projects
 - Build Personal Projects in Python and C++
-- Learn Unreal Engine Game Development
 - Strengthen Cybersecurity Fundamentals
 - Build a Strong Developer Portfolio
 
