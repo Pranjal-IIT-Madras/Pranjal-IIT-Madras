@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+at+VIT+Bhopal;Learning+C%2B%2B+and+Data+Structures+%26+Algorithms;Aspiring+Software+Developer;Future+Entrepreneur;Exploring+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+at+VIT+Bhopal;Learning+C%2B%2B+and+Data+Structures+%26+Algorithms;Aspiring+Software+Developer;Exploring+Cybersecurity" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,7 +19,6 @@
 - 🚀 Aspiring **Entrepreneur and Software Developer**
 - 📫 Reach me at **pranjal0829@gmail.com**
 - 📄 LinkedIn: **[Pranjal Bhatnagar](https://www.linkedin.com/in/pranjal--bhatnagar/)**
-- ⚡ Fun fact: I aim to combine software development, game development, and entrepreneurship.
 
 ---
 
