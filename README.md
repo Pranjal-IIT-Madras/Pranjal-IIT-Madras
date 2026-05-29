@@ -5,19 +5,10 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+at+VIT+Bhopal;Learning+C%2B%2B+and+Data+Structures;Aspiring+Software+Developer;Future+Entrepreneur;Exploring+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+at+VIT+Bhopal;Learning+C%2B%2B+and+Data+Structures+%26+Algorithms;Aspiring+Software+Developer;Future+Entrepreneur;Exploring+Cybersecurity" alt="Typing SVG" />
 </p>
 
 ---
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Pranjal-IIT-Madras/Pranjal-IIT-Madras/stats-output/stats.svg" height="170" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/Pranjal-IIT-Madras/Pranjal-IIT-Madras/languages-output/languages.svg" height="170" alt="languages graph" />
-</div>
-
-###
 
 ## 👨‍💻 About Me
 
@@ -87,19 +78,28 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pranjal-IIT-Madras/Pranjal-IIT-Madras/stats-output/stats.svg" height="170" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/Pranjal-IIT-Madras/Pranjal-IIT-Madras/languages-output/languages.svg" height="170" alt="languages graph" />
+</div>
+
+<br>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pranjal-iit-madras&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranjal-IIT-Madras/Pranjal-IIT-Madras/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranjal-IIT-Madras/Pranjal-IIT-Madras/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pranjal-IIT-Madras/Pranjal-IIT-Madras/pacman-output/pacman-contribution-graph.svg">
-</picture>
+## 👾 Contribution Activity
 
-###
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranjal-IIT-Madras/Pranjal-IIT-Madras/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranjal-IIT-Madras/Pranjal-IIT-Madras/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pranjal-IIT-Madras/Pranjal-IIT-Madras/pacman-output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 ---
 
